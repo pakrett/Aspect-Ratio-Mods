@@ -1,0 +1,18 @@
+@nsobid-8F75C9B8B7FF69D96D6FBD6533A5930120985B2D
+        
+// nsobid found in main @ offset 0x40
+
+# Captain Toad: Treasure Tracker v1.3.0 - 4:3 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 4:3 Aspect Ratio
+// Use stretch to window option in your emulator
+
+@enabled
+0038E930 00D02E1E
+@stop
+
+// victoria4dx
+// https://github.com/victoria4dx/switch-mods
