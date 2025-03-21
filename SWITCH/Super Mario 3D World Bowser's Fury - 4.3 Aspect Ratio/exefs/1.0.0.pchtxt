@@ -1,0 +1,25 @@
+@nsobid-9F7EFC2FB9653E5CDE03030478F23EDA7D18EF44
+
+// nsobid found in main @ offset 0x40
+
+# Super Mario 3D World + Bowser's Fury [010028600EBDA000] v1.0.0 - 4:3 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 4:3 Aspect Ratio
+// Use stretch to window option in your emulator
+
+@enabled
+008FADE0 00D02E1E
+0091CFC8 495595D2
+0091CFCC 49F5A7F2
+008B6C1C 48559552
+008B6C20 48F5A772
+@stop
+
+// victoria4dx
+// https://github.com/victoria4dx/switch-mods
+
+// theboy181
+// https://linktr.ee/theboy181
