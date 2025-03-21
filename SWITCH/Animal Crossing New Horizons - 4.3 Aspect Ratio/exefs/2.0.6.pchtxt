@@ -1,0 +1,25 @@
+@nsobid-15765149DF53BA4105C75A3A1A5102FC
+
+// nsobid found in main @ offset 0x40
+
+# Animal Crossing: New Horizons [01006F8002326000] v2.0.6 - 4:3 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 4:3 Aspect Ratio
+// Set Aspect Ratio to "Stretch to Window" in yuzu or "Stretch to Fit Window" in Ryujinx for this mod to work properly.
+
+@enabled
+02C768E8 00D02E1E
+00EF5C40 E003271E
+@stop
+
+// Thank you to OldManKain for his guidance in updating this mod to 2.0.6
+// https://github.com/OldManKain/Making-NX-Mods
+
+// Thank you to victoria4dx for updating the original ultrawide mod for versions 2.0.4 and 2.0.5
+// https://github.com/victoria4dx/switch-mods
+
+// Thank you to theboy181 for making the original ultrawide mod for version 1.8.0
+// https://linktr.ee/theboy181
