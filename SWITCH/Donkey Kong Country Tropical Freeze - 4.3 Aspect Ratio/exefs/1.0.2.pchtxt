@@ -1,0 +1,21 @@
+@nsobid-F48BD40D89B529C114F17C7909FE6AA4
+
+// nsobid found in main @ offset 0x40
+
+# Donkey Kong Country Tropical Freeze [0100C1F0051B6000] 1.0.2 - 4:3 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 4:3 Aspect Ratio
+// Use stretch to window option
+
+@enabled
+0151F1A8 ABAAAA3F
+002DD344 7EFCA752
+002DD348 C003271E
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
